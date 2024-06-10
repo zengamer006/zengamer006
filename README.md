@@ -1,7 +1,7 @@
 # Hey there 👋 It's me **GOKULNATH fondly ZENGAMER006**
 # Welcome to My code Space 🚀
-### I'm an innovative technologist with a passion for ** electronics, IoT, and robotics. **
-### I love turning cutting-edge tech into real-world solutions.
+### I'm an innovative technologist with a passion for ELECTRONICS, IOT & ROBOTICS   
+### I love turning cutting-edge tech into real-world solutions wit the application of EMBEDDED SYSTEMS DESIGN .
 
 # About Me:- 
 ### 🔌 Electronics: Crafting circuits and systems
