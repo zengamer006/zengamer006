@@ -25,6 +25,6 @@
 
 # Connect with Me
 ### Let's collaborate and innovate together! Reach out if you're interested in tech and making a difference.
-### [LINKEDIN](https://www.linkedin.com/in/n-gokul-nath-ba8709277/) [WHATSAPP](https://wa.me/+919952915707) [INSTAGRAM](https://www.instagram.com/.xx.zen.gamer.xx.?igsh=MWE5N2FxNmNiYnBvZg==)
+### [LINKEDIN](https://www.linkedin.com/in/n-gokul-nath-ba8709277/) , [WHATSAPP](https://wa.me/+919952915707) , [INSTAGRAM](https://www.instagram.com/.xx.zen.gamer.xx.?igsh=MWE5N2FxNmNiYnBvZg==)
 
 
