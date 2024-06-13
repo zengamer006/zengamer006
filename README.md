@@ -15,7 +15,13 @@
 ### Making advanced technologies that are sustainable, efficient, accurate & more productive. 
 
 # MY SKILL'S 
-### :[EMBEDDED C](https://www.google.com/imgres?q=embedded%20c%20symbol&imgurl=https%3A%2F%2Fwww.gaonkartech.com%2Fimg%2Femc.jpg&imgrefurl=https%3A%2F%2Fwww.gaonkartech.com%2Fembeddedc.php&docid=Kr7Rtmen0ZdMOM&tbnid=mAja5aVbT3KpxM&vet=12ahUKEwjmjOWu0diGAxWGzDgGHUCWB28QM3oECGsQAA..i&w=458&h=484&hcb=2&ved=2ahUKEwjmjOWu0diGAxWGzDgGHUCWB28QM3oECGsQAA) 
+### •	Embedded System Design for any type of application
+### •	IOT , Robotics & Automation system Design (pcb , power distribution board, control system)
+### •	Embedded programming (c, micro-python, Linux)
+### •	Public Speaking 
+### •	Technical Content Writing
+### •	Sustainable Fleet Management
+### •	Project team building & management
 
 # Connect with Me
 ### Let's collaborate and innovate together! Reach out if you're interested in tech and making a difference.
